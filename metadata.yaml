@@ -1,0 +1,45 @@
+_repo: Some-Experiences-of-an-Irish-R.M._34630
+_version: 0.1.0
+alternative_title: Some experiences of an Irish Resident Magistrate
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ross, Martin
+    alias: Martin, Violet Florence
+    birthdate: 1862
+    deathdate: 1915
+    gutenberg_agent_id: '5335'
+    url: http://www.gutenberg.org/2009/agents/5335
+    wikipedia: http://en.wikipedia.org/wiki/Violet_Florence_Martin
+  - agent_name: Somerville, E. Oe. (Edith Oenone)
+    aliases:
+    - Herring, Geilles
+    - Somerville, Edith Anna Oenone
+    birthdate: 1858
+    deathdate: 1949
+    gutenberg_agent_id: '5334'
+    url: http://www.gutenberg.org/2009/agents/5334
+    wikipedia: http://en.wikipedia.org/wiki/Edith_Anna_Somerville
+description: ''
+gutenberg_issued: '2011-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'British -- Ireland -- Fiction'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'Justices of the peace -- Fiction'
+- !lcsh 'Ireland -- Social life and customs -- Fiction'
+tableOfContents: Great-Uncle McCarthy -- In the Curranhilty country -- Trinket's colt
+  -- The waters of strife -- Lisheen races, second-hand -- Philippa's fox-hunt --
+  A misdeal -- The holy island -- The policy of the closed door -- The house of Fahy
+  -- Occasional licenses -- "Oh love! Oh fire!"
+title: Some Experiences of an Irish R.M.
+url: http://www.gutenberg.org/ebooks/34630
